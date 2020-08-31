@@ -30,6 +30,7 @@ set encoding=utf-8
 set clipboard=unnamedplus
 set tabstop=4 shiftwidth=4 expandtab
 set nu
+set hlsearch
 
 syntax enable
 set background=dark
